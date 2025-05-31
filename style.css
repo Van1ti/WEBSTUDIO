@@ -1,0 +1,66 @@
+.solution{
+    background-color:  #2F303A;
+}
+
+.header_container_nav_link {
+    color: #757575;
+}
+
+.header_container_logo{
+    color:#000000;
+}
+.header_content--email {
+    color: #757575;
+}
+.header_content--phone{
+    color: #757575;
+}
+.solution_container--title{
+    width: 696;
+    height: 120;
+    top: 280px;
+    left: 452px;
+    color:#FFFFFF;
+}
+
+.solution_container--button{
+    background-color: #2196F3;
+    width: 216;
+height: 50;
+top: 430px;
+left: 692px;
+border-radius: 4px;
+
+}
+
+.info--cart_title{
+  color: #212121;
+}
+
+.info--cart_text{
+    color: #757575;
+}
+
+.whatWEDO_container--title{
+    color:#212121;
+}
+
+.ourteam_title{
+    color: #212121;
+}
+
+.footer{
+    background-color: #2F303A;
+}
+
+.footer_title{
+    color: #FFFFFF;
+}
+
+.footer_adress{
+    color: #F5F4FA;
+}
+
+.footer_adress--media{
+    color: #757575;
+}
