@@ -4,48 +4,44 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
-
 }
 
-.header_container_nav_link {
-    color: #757575;
+.header_container--nav--link {
     font-family: Roboto;
     font-weight: 500;
     font-size: 14px;
     line-height: 100%;
     letter-spacing: 2%;
-
+    color: #757575;
 }
 
-.header_container_logo {
-    color: #000000;
+.header_container--logo {
     font-family: Raleway;
     font-weight: 700;
     font-size: 26px;
     line-height: 100%;
     letter-spacing: 3%;
-
+    color: #000000;
+    margin: 0 auto;
 }
 
 .header_content--email {
-    color: #757575;
     font-family: Roboto;
     font-weight: 500;
     font-size: 14px;
     line-height: 100%;
     letter-spacing: 2%;
+    color: #757575;
     color: #2196F3;
 }
 
 .header_content--phone {
-    color: #757575;
     font-family: Roboto;
     font-weight: 500;
     font-size: 14px;
     line-height: 100%;
     letter-spacing: 2%;
-
+    color: #757575;
 }
 
 .solution {
@@ -61,13 +57,13 @@
     letter-spacing: 6%;
     text-align: center;
     text-transform: uppercase;
-
 }
 
 .solution_container--button {
     background-color: #2196F3;
     border-radius: 4px;
     box-shadow: none;
+    font-family: Roboto;
     font-weight: 700;
     font-size: 16px;
     line-height: 30px;
@@ -77,7 +73,7 @@
     color: #FFFFFF;
 }
 
-.info--cart_title {
+.info_cart--title {
     font-family: Roboto;
     font-weight: 700;
     font-size: 14px;
@@ -85,32 +81,80 @@
     letter-spacing: 3%;
     text-transform: uppercase;
     color: #212121;
+
 }
 
-.info--cart_text {
+.info_cart--text {
     color: #757575;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 3%;
 }
 
 .whatWEDO_container--title {
     color: #212121;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: 3%;
+    text-align: center;
+
 }
 
 .ourteam_title {
     color: #212121;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: 3%;
+    text-align: center;
+
+}
+
+.ourteam_container--card {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 3%;
+    text-align: center;
+
 }
 
 .footer {
     background-color: #2F303A;
+
 }
 
 .footer_title {
     color: #FFFFFF;
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 100%;
+    letter-spacing: 3%;
 }
 
 .footer_adress {
     color: #F5F4FA;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 3%;
+
 }
 
 .footer_adress--media {
     color: #757575;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 3%;
+
 }
