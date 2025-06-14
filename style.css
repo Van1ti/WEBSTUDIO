@@ -1,66 +1,116 @@
-.solution{
-    background-color:  #2F303A;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+
 }
 
 .header_container_nav_link {
     color: #757575;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 2%;
+
 }
 
-.header_container_logo{
-    color:#000000;
+.header_container_logo {
+    color: #000000;
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 100%;
+    letter-spacing: 3%;
+
 }
+
 .header_content--email {
     color: #757575;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 2%;
+    color: #2196F3;
 }
-.header_content--phone{
+
+.header_content--phone {
     color: #757575;
-}
-.solution_container--title{
-    width: 696;
-    height: 120;
-    top: 280px;
-    left: 452px;
-    color:#FFFFFF;
-}
-
-.solution_container--button{
-    background-color: #2196F3;
-    width: 216;
-height: 50;
-top: 430px;
-left: 692px;
-border-radius: 4px;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 2%;
 
 }
 
-.info--cart_title{
-  color: #212121;
-}
-
-.info--cart_text{
-    color: #757575;
-}
-
-.whatWEDO_container--title{
-    color:#212121;
-}
-
-.ourteam_title{
-    color: #212121;
-}
-
-.footer{
+.solution {
     background-color: #2F303A;
 }
 
-.footer_title{
+.solution_container--title {
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    letter-spacing: 6%;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+.solution_container--button {
+    background-color: #2196F3;
+    border-radius: 4px;
+    box-shadow: none;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 6%;
+    text-align: center;
+    vertical-align: middle;
     color: #FFFFFF;
 }
 
-.footer_adress{
+.info--cart_title {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+    color: #212121;
+}
+
+.info--cart_text {
+    color: #757575;
+}
+
+.whatWEDO_container--title {
+    color: #212121;
+}
+
+.ourteam_title {
+    color: #212121;
+}
+
+.footer {
+    background-color: #2F303A;
+}
+
+.footer_title {
+    color: #FFFFFF;
+}
+
+.footer_adress {
     color: #F5F4FA;
 }
 
-.footer_adress--media{
+.footer_adress--media {
     color: #757575;
 }
